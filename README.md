@@ -5,7 +5,7 @@ A simple snake game designed in react native that works both on mobile platform 
 ---
 
 ## Demo
-* *Web*: [TODO]()
+* *Web*: [https://manusekhon.github.io/snake-game-RNWeb/](https://manusekhon.github.io/snake-game-RNWeb/)
 * To run on mobile device, follow the installation instructions given below.
 
 ## Installation
