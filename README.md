@@ -12,7 +12,10 @@ A simple snake game designed in react native that works both on mobile platform 
 * Install `yarn` package manager
 * Clone the repo
 ```bash
-TODO
+$git clone https://github.com/ManuSekhon/snake-game-RNWeb.git
+$cd snake-game-RNWeb
+$yarn install
+$yarn web
 ```
 * Expo development tools should be up and running now.
 
