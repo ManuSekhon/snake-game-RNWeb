@@ -1,12 +1,13 @@
 # Snake Game
 A simple snake game designed in react native that works both on mobile platform and web platform using react-native-web.
 
-### *Inspired by [Snake Game in flutter web](https://github.com/sur950/Flutter_SnakeGame_FlutterWeb) by [Suresh Konakanchi](https://github.com/sur950)*
+*Inspired by [Snake Game in flutter web](https://github.com/sur950/Flutter_SnakeGame_FlutterWeb) by [Suresh Konakanchi](https://github.com/sur950)*
+
 ---
 
 ## Demo
 * *Web*: [https://manusekhon.github.io/snake-game-RNWeb/](https://manusekhon.github.io/snake-game-RNWeb/)
-* To run on mobile device, follow the installation instructions given below.
+* *Mobile*: [https://expo.io/@manuinder/snake-game](https://expo.io/@manuinder/snake-game)
 
 ## Installation
 * Install `yarn` package manager
